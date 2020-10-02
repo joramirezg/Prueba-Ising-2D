@@ -6,7 +6,7 @@ import itertools
 
 J = 1*(1.38e-23)
 kB = 1.38e-23
-red = 50  
+red = 10  
 
 sitios = list()
 spins = dict()
